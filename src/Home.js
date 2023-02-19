@@ -5,7 +5,8 @@ function Home() {
     return(
         <div>
             <h1>home!</h1> 
-            <Link to="about">About me</Link>
+            
+            <img src={"https://aaron-noe-personal-site.s3.amazonaws.com/bear.jfif"} />
         </div>
     )
 }
